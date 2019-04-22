@@ -1,0 +1,11 @@
+
+body{background-image: url(5701c2a4.png);}
+.logo{ animation:  rot 1s;box-shadow: 0 0 3px white;  padding: 10px; border-radius: 50%; border: floralwhite solid 10px; }
+#prel{animation:  rot 1s;}
+
+
+@keyframes rot{
+from{ transform:rotate(0deg); }
+to{transform: rotate(360deg); }
+}
+
